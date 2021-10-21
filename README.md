@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eitieatgithub
-- 👀 I’m interested in data science, big data, overall IT-topics, statistical process control, to bring benefit in engineering & technology with help of IT 
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in data science, big data, overall IT-topics, statistical process control, machine learning to bring benefit in engineering & technology with help of IT 
+- 🌱 I’m currently learning python and machine learning
 - 💞️ I’m looking to collaborate on find topic for masterthesis
 - 📫 How to reach me: eitieatgithub@mailbox.org
 
